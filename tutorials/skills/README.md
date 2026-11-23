@@ -12,12 +12,15 @@
 
 | 中文名称 | 英文标识 | 中文说明 |
 | --- | --- | --- |
+| 潘一个人定位 | `panyi-personal-positioning` | [查看说明](https://github.com/david-dy2026/panyi-personal-positioning#readme) · [下载完整 ZIP](https://github.com/david-dy2026/panyi-personal-positioning/archive/refs/heads/main.zip) |
 | 豌豆图文教程 | `wandou-jiaocheng` | [打开](https://github.com/david-dy2026/wandou-jiaocheng#readme) |
 | 豌豆公众号改写 | `wandou-gzh` | [打开](https://github.com/david-dy2026/wandou-gzh#readme) |
 | 豌豆内容对标 | `wandou-duibiao` | [打开](https://github.com/david-dy2026/wandou-duibiao#readme) |
 | 豌豆短视频卖点 | `wandou-maidian` | [打开](https://github.com/david-dy2026/wandou-maidian#readme) |
 
 平时可以用中文名称描述需求；安装目录和具体调用标识以对应仓库的说明为准。
+
+潘一个人定位的 ZIP 解压后，将文件夹重命名为 `panyi-personal-positioning`，再按所用助手的安装方式导入完整目录。保留其中的 `SKILL.md`、`references`、`assets`、`agents` 和 `scripts`，不要只复制主文件。安装后可说：“用潘一个人定位，带我从自己的经历开始，一步一步梳理个人定位。”
 
 ## 添加教程
 
